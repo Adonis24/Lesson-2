@@ -80,6 +80,7 @@ func fib( _ n: Int) -> Double {
 
 //print("\(isEven(number: aInt!))")
 print("Число Фибоначчи :\(100) равно \(fib(99))")
+
 //var fArray:[NSString] = []
 //var stringToInteger: NSString
 //var doubleToString: NSString
@@ -88,9 +89,9 @@ print("Число Фибоначчи :\(100) равно \(fib(99))")
 //{
 //    doubleToString = NSString(characters: "\(fib(i))")
 //    stringToInteger = (doubleToString)
-//    
+//
 //    fArray.append(stringToInteger)
-//    
+//
 //}
 // print("Вывод массива по задаче 5 :\(fArray)")
 //print("введено число :\(aInt!)")
